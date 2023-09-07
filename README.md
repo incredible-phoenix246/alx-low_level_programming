@@ -1,1 +1,2 @@
-This is the readme for ths repo
+They said C is hard
+watch me learn it

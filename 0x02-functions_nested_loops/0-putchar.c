@@ -1,13 +1,11 @@
-#include <stdio.h>
 #include "main.h"
-
+#include <stdio.h>
+#include <unistd.h>
 /**
- * main - Thid is the entry point of the program
- * This program, prints _putchar, followed by a new line.
+ * main- Entry point
  *
- * Return: Always 0 (indicating successful)
+ * Return: Always 0 (Succes)
  */
-
 int main(void)
 {
 	putchar('_');

@@ -8,7 +8,6 @@
  *
  * Return: Always 0 (indicating successful)
  */
-
 int main(void)
 {
 	putchar('_');

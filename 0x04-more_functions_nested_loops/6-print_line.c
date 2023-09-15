@@ -8,19 +8,19 @@
  */
 void print_line(int n)
 {
-    int a;
+	int a;
 
-    if (n <= 0)
-    {
-        _putchar('\n');
-    }
-    else
-    {
-        for (a = 0; a < n; a++)
-        {
-            _putchar(95);
-        }
+	if (n <= 0)
+	{
+		_putchar('\n');
+	}
+	else
+	{
+		for (a = 0; a < n; a++)
+		{
+			_putchar(95);
+		}
 
-        _putchar('\n');
-    }
+		_putchar('\n');
+	}
 }

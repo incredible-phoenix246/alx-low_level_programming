@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isdigit - Check if its a number
  * @c: The number checked
